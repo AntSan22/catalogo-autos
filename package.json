@@ -1,0 +1,17 @@
+{
+  "name": "catalogo-autos",
+  "version": "1.0.0",
+  "description": "Microservicio web que devuelve un catálogo básico de autos (marca, modelo, año, precio y color)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Antonio Sánchez Jiménez",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
